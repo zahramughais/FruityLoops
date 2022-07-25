@@ -1,0 +1,23 @@
+@charset "UTF-8";
+h1 {
+	color: #ffb6c2;
+}
+table{
+	border: #ffb6c2 solid 15px;
+	width: 100%;
+	text-align: center;
+	padding: 10px;
+}
+th{
+	width: 50%;
+	padding-bottom: 5px;
+}
+table td{
+	padding: 5px;
+	border-top: #ffb6c2 solid 1px;
+	margin: 0;
+}
+.wrapper {
+	max-width: 50%;
+	margin: 0 auto;
+}
